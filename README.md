@@ -19,6 +19,9 @@
 ## Proof of Work - Current Projects
 
 - 🛡️ **[simple-aes-gcm](https://github.com/cyberadityacode/simple-aes-gcm)** - A simple, lightweight wrapper for the Web Crypto API. Intended for Browser/Web Crypto API environments
+- 🔐 **[secure-ls](https://github.com/cyberadityacode/secure-ls)** - A lightweight, secure wrapper for localStorage using AES-GCM (128-bit) encryption. Built on top of the Web Crypto API, it ensures your sensitive browser data remains encrypted and unreadable to XSS attacks or manual inspection.
+
+
 
 ## Proof of Concept
 
