@@ -14,7 +14,7 @@
 ![UbuntuOS](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Upgrading my mental firmware.
+> Upgrading my consciousness.
 
 ## Proof of Work - Current Projects
 
