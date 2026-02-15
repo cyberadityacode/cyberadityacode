@@ -23,6 +23,8 @@
 - 🛡️ **[WP Code Guardian](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.wp-code-guardian)** - WP Code Guardian is the definitive "one-stop" solution for WordPress developers. It eliminates the manual headache of setting up PHPCS, WPCS, and ESLint. Open your project, and the Guardian takes care of the rest—installing dependencies, configuring rules, and fixing your code automatically.
 - ⚡ **[Antigravity/VS Code Extension](https://open-vsx.org/extension/cyberadityacode/wp-code-guardian)**- WP Code Guardian
 - 🔧 **[WP Debug Stream](https://github.com/cyberadityacode/wp-debug-stream)**- Live WordPress debug log viewer with automatic wp-config setup and real-time streaming.
+- ✨ **[Aeroscript Theme Antigravity](https://open-vsx.org/extension/cyberadityacode/aeroscript)**
+- ✨ **[Aeroscript Theme VS Code](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.aeroscript)** - AeroScript is a premium, dark theme specifically engineered for the modern JavaScript web developer. It moves away from harsh contrasts to embrace a deep, weightless aesthetic that reduces eye strain while making your code logic pulse with energy.
 
 
 ## Proof of Concept
