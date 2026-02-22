@@ -14,6 +14,12 @@
 ![UbuntuOS](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+Hi, I’m Aditya Dubey - a Full-Stack SaaS Engineer building secure, scalable systems across web engineering, cybersecurity, and applied cryptography.
+
+I focus on designing developer-first tools, AI-integrated workflows, and production-ready platforms that balance performance, security, and simplicity. My approach is systems-driven: solving complex problems by turning them into reliable, practical solutions.
+
+Beyond software, I explore consciousness, cognition, and intelligence, viewing engineering as both system design and clarity of thought.
+
 > Upgrading my consciousness.
 
 ## Proof of Work - Current Projects
