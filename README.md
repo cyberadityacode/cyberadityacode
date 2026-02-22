@@ -24,6 +24,7 @@
 - ⚡ **[Antigravity/VS Code Extension](https://open-vsx.org/extension/cyberadityacode/wp-code-guardian)**- WP Code Guardian
 - 🔧 **[WP Debug Stream](https://github.com/cyberadityacode/wp-debug-stream)**- Live WordPress debug log viewer with automatic wp-config setup and real-time streaming.
 - ✨ **[Aeroscript Theme Antigravity](https://open-vsx.org/extension/cyberadityacode/aeroscript)** ,**[Aeroscript Theme VS Code](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.aeroscript)** - AeroScript is a premium, dark theme specifically engineered for the modern JavaScript web developer. It moves away from harsh contrasts to embrace a deep, weightless aesthetic that reduces eye strain while making your code logic pulse with energy.
+- 🧠 **[AI Quota Monitor](https://open-vsx.org/extension/cyberadityacode/ai-quota-monitor)** -AI Quota Monitor is a developer-focused Antigravity/VS Code extension that shows real-time AI model usage, quota limits, and reset timers directly inside your editor. Track usage for Gemini, Claude, GPT, and Antigravity AI models without switching tabs or interrupting your workflow [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.ai-quota-monitor).
 
 
 ## Proof of Concept
