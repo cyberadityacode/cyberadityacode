@@ -32,7 +32,8 @@ Beyond software, I explore consciousness, cognition, and intelligence, viewing e
 - ✨ **[Aeroscript Theme Antigravity](https://open-vsx.org/extension/cyberadityacode/aeroscript)** ,**[Aeroscript Theme VS Code](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.aeroscript)** - AeroScript is a premium, dark theme specifically engineered for the modern JavaScript web developer. It moves away from harsh contrasts to embrace a deep, weightless aesthetic that reduces eye strain while making your code logic pulse with energy.
 - 🧠 **[AI Quota Monitor](https://open-vsx.org/extension/cyberadityacode/ai-quota-monitor)** -AI Quota Monitor is a developer-focused Antigravity/VS Code extension that shows real-time AI model usage, quota limits, and reset timers directly inside your editor. Track usage for Gemini, Claude, GPT, and Antigravity AI models without switching tabs or interrupting your workflow [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.ai-quota-monitor).
 
-
+## Blog
+- [JavaScript, Consciousness, and the Architecture of Reality](https://cyberadityacode.medium.com/javascript-consciousness-and-the-architecture-of-reality-45c515fe1fc8)
 ## Proof of Concept
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) -
