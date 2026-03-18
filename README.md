@@ -34,6 +34,16 @@ Beyond software, I explore consciousness, cognition, and intelligence, viewing e
 
 ## Blog
 - [JavaScript, Consciousness, and the Architecture of Reality](https://cyberadityacode.medium.com/javascript-consciousness-and-the-architecture-of-reality-45c515fe1fc8)
+
+## Legacy Fun Projects
+
+- [Light Automation using Raspberry Pi2 - via USB Tethering from Android](https://www.youtube.com/watch?v=o9AP8YNjwJw)
+- [Light Automation System with CCTV Surveillance using Raspberry Pi 2](https://www.youtube.com/watch?v=qt6u52CXLWc)
+- [SpyCar - Controlling Toy Car and Camera from Web Application using Raspberry Pi 2](https://www.youtube.com/watch?v=M85MgATotEA)
+- [SocialPC- Control Your Computer from Facebook Account](https://www.youtube.com/watch?v=PEltpvewDo4)
+- [SocialPC Control Your Computer from Gmail Account](https://www.youtube.com/watch?v=IOJS86H10eI)
+- [How to Configure Two Routers using CLI in Cisco Packet Tracer](https://www.youtube.com/watch?v=L6XzxMEGgzs)
+
 ## Proof of Concept
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) -
@@ -45,6 +55,7 @@ Beyond software, I explore consciousness, cognition, and intelligence, viewing e
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) - [PHP](https://github.com/cyberadityacode/php) - Complete PHP Learning Module with Projects and React JS Integration.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) - [ReactJS](https://github.com/cyberadityacode/reactjs) -Complete React JS Learning Module with Projects
+
 
 ## GitHub Activity
 
