@@ -34,6 +34,7 @@ Beyond software, I explore consciousness, cognition, and intelligence, viewing e
 
 ## Blog
 - [JavaScript, Consciousness, and the Architecture of Reality](https://cyberadityacode.medium.com/javascript-consciousness-and-the-architecture-of-reality-45c515fe1fc8)
+- [Execution Context in JavaScript from First-Principles Thinking](https://cyberadityacode.medium.com/execution-context-in-javascript-from-first-principles-thinking-7e79df6c7f48)
 
 ## Legacy Fun Projects
 
