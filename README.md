@@ -1,5 +1,10 @@
 # Hi, I'm Aditya Dubey 👋
 
+A Full-Stack SaaS Engineer specializing in secure, scalable systems at the intersection of web engineering and cybersecurity.
+Driven by systems and first-principles thinking, I turn complexity into robust, practical solutions that scale.
+
+Beyond software, I explore consciousness, cognition, and intelligence, viewing engineering as both system design and clarity of thought.
+
 📍 **Jabalpur, India** | 🤖 **यदृच्छया देववृतः ||**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -14,12 +19,6 @@
 ![UbuntuOS](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-Hi, I’m Aditya Dubey - a Full-Stack SaaS Engineer building secure, scalable systems across web engineering, cybersecurity, and applied cryptography.
-
-I focus on designing developer-first tools, AI-integrated workflows, and production-ready platforms that balance performance, security, and simplicity. My approach is systems-driven: solving complex problems by turning them into reliable, practical solutions.
-
-Beyond software, I explore consciousness, cognition, and intelligence, viewing engineering as both system design and clarity of thought.
-
 > Upgrading my consciousness.
 
 ## Proof of Work - Current Projects
@@ -33,8 +32,8 @@ Beyond software, I explore consciousness, cognition, and intelligence, viewing e
 - 🧠 **[AI Quota Monitor](https://open-vsx.org/extension/cyberadityacode/ai-quota-monitor)** -AI Quota Monitor is a developer-focused Antigravity/VS Code extension that shows real-time AI model usage, quota limits, and reset timers directly inside your editor. Track usage for Gemini, Claude, GPT, and Antigravity AI models without switching tabs or interrupting your workflow [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.ai-quota-monitor).
 
 ## Blog
-- [JavaScript, Consciousness, and the Architecture of Reality](https://cyberadityacode.medium.com/javascript-consciousness-and-the-architecture-of-reality-45c515fe1fc8)
-- [Execution Context in JavaScript from First-Principles Thinking](https://cyberadityacode.medium.com/execution-context-in-javascript-from-first-principles-thinking-7e79df6c7f48)
+- JavaScript, Consciousness, and the Architecture of Reality - [Blog](https://cyberadityacode.medium.com/javascript-consciousness-and-the-architecture-of-reality-45c515fe1fc8)
+- Execution Context in JavaScript from First-Principles Thinking - [Blog](https://cyberadityacode.medium.com/execution-context-in-javascript-from-first-principles-thinking-7e79df6c7f48)
 
 ## Legacy Fun Projects
 
